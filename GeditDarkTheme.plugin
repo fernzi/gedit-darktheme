@@ -1,0 +1,14 @@
+[Plugin]
+Loader=python3
+Module=GeditDarkTheme
+IAge=3
+Name=Dark Theme
+Name[es]=Tema Obscuro
+Name[fr]=Thème Sombre
+Description=Use the GTK+ theme's dark variant
+Description[es]=Use la variante oscura del tema GTK+
+Description[fr]=Utiliser la variante sombre du thème GTK+
+Authors=Franz Zapata
+Copyright=Copyright © 2015 Franz Zapata
+Website=https://github.com/franz-mokka/GeditDarkTheme
+Icon=preferences-desktop-theme
