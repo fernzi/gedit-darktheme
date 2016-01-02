@@ -11,7 +11,7 @@ Clone this repository in your plugin directory, usually located at
 :code:`~/.local/share/gedit/plugins/`. You can use the following
 commands:
 
-.. code: sh
+::
 
   cd ~/.local/share/gedit/plugins/
   git clone https://github.com/franz-mokka/GeditDarkTheme.git
