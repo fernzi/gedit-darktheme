@@ -1,7 +1,6 @@
 [Plugin]
 Loader=python3
-Module=GeditDarkTheme
-IAge=3
+Module=darktheme
 Name=Dark Theme
 Name[es]=Tema Obscuro
 Name[fr]=Thème Sombre

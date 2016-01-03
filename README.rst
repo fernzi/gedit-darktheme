@@ -14,7 +14,7 @@ commands:
 ::
 
   cd ~/.local/share/gedit/plugins/
-  git clone https://github.com/franz-mokka/GeditDarkTheme.git
+  git clone https://github.com/franz-mokka/gedit-darktheme.git
 
 Afterwards, restart gedit and activate the plugin from the preferences
 dialog.
