@@ -12,7 +12,7 @@ Clone this repository in your plugin directory, usually located at
 
 ```sh
 cd ~/.local/share/gedit/plugins/
-git clone https://github.com/franz-mokka/gedit-darktheme.git
+git clone https://github.com/franzzapata/gedit-darktheme.git
 ```
 
 Afterwards, restart gedit and activate the plugin from the preferences
