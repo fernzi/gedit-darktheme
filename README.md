@@ -9,8 +9,9 @@ Download and extract the ZIP into your plugin directory, usually located at
 `~/.local/share/gedit/plugins/`, or clone the repository using `git`:
 
 ```sh
-cd ~/.local/share/gedit/plugins/
-git clone https://github.com/ferzapata/gedit-darktheme.git
+mkdir -p ~/.local/share/gedit/plugins
+cd ~/.local/share/gedit/plugins
+git clone https://github.com/fernzi/gedit-darktheme.git
 ```
 
 Then restart gedit and activate the plugin on the preferences dialog.
