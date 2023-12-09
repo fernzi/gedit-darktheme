@@ -1,7 +1,7 @@
-# Copyright © 2015-2020 Fern Zapata
-# Permission to use, copy, modify, and distribute this software for any
-# purpose with or without fee is hereby granted, provided that the above
-# copyright notice and this permission notice appear in all copies.
+# Copyright © 2015-2023 Fern Zapata
+# This program is subject to the terms of the GNU GPL, version 3
+# or, at your option, any later version. If a copy of it was not
+# included with this file, see https://www.gnu.org/licenses/.
 
 from gi.repository import GObject, Gtk, Gedit
 
